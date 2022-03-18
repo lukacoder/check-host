@@ -9,6 +9,7 @@ Termux :
 <br>git clone https://github.com/kedyc0der/check-host/
 <br>cd check-host
 <br>pip install python-whois
+<br>pip install requests
 <br>python3 checkhost.py
 <br>_____________________________________________________
 <br>
@@ -16,4 +17,5 @@ Linux :
 <br>git clone https://github.com/kedyc0der/check-host/
 <br>cd check-host
 <br>pip install python-whois
+<br>pip install requests
 <br>python3 checkhost.py

@@ -6,7 +6,7 @@ Termux :
 <br>pkg install git
 <br>pkg install python
 <br>pkg install python3
-<br>git clone https://github.com/kedyc0der/check-host/
+<br>git clone https://github.com/lukac0der/check-host/
 <br>cd check-host
 <br>pip install python-whois
 <br>pip install requests
@@ -14,7 +14,7 @@ Termux :
 <br>_____________________________________________________
 <br>
 Linux :
-<br>git clone https://github.com/kedyc0der/check-host/
+<br>git clone https://github.com/lukac0der/check-host/
 <br>cd check-host
 <br>pip install python-whois
 <br>pip install requests

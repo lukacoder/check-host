@@ -6,7 +6,7 @@ print("""
                 - H O S T    C H E C K E R -
 
 
-                    ~ Kedy Coder ~
+                    ~ LUKAC0DER ~
                         
                     1- Who.İs
                     2- DnsLookUp
